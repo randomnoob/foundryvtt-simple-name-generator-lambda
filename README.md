@@ -1,4 +1,7 @@
-# Lambda function for name generator
+# RANDOM NAME GENERATORRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR
+
+
+
 
 ## Info
 - `./names` - names pack files
